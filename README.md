@@ -1,4 +1,19 @@
-## Hi there 👋
+# Mechanical Engineer 
+
+### Education
+Mechanical Engineering, BASc from Queen's University 
+
+### Experience 
+Safe Storage Design Intern @ Ontario Power Generation
+
+### Projects 
+#### BAJA Design Team 
+- Footrests (2023)
+- Engine Subframe (2024)
+
+
+
+- 
 
 <!--
 **arianpudjo/arianpudjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
